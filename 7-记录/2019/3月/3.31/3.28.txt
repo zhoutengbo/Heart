@@ -1,0 +1,4 @@
+	1、英语学习0.5h
+
+	2、ffmpeg 学习了几个重要的数据结构意义，AVFrame用于保存最元素数据,AVPacket用于保存
+	编码信息，AVStream用于保存流信息
