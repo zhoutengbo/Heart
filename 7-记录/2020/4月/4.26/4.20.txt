@@ -1,0 +1,5 @@
+	1、机器学习、核回归：
+	https://wenku.baidu.com/view/ed8cb5220722192e4536f6a4.html
+	
+	核回归：
+	https://www.zhihu.com/question/27301358/answer/105267357?from=profile_answer_card

@@ -1,0 +1,3 @@
+	使用MDS算法，实现降维
+
+	https://zhuanlan.zhihu.com/p/51441355
