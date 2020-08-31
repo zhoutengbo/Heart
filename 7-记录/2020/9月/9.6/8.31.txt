@@ -1,0 +1,6 @@
+	今日完成的事:
+		学习media box句法
+		1、mdhd
+		2、hdlr
+		3、minf
+   		4、nmhd
