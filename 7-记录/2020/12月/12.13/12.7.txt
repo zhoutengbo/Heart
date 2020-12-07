@@ -1,0 +1,11 @@
+	TODO：
+		1、Read EN artical for at least an half of hour.
+		2、周计划以及上周总结
+		3、OS 复习以及 学习
+		4、研究TCP拥塞算法
+		5、ffmpeg代码研究（至少1小时）
+		6、阅读
+		
+	FINISHED:
+		1、完成周计划以及周总结
+		2、完成英语阅读
