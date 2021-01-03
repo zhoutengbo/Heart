@@ -1,0 +1,3 @@
+	FINISHED：
+		1、linux内核深入- 内存寻址-段选择器以及段描述符等
+		2、ffmpeg-ps代码研究，读完mpeg-ps-head定位部分，知道关键帧是如何取得的

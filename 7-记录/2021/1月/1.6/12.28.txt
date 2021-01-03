@@ -1,0 +1,4 @@
+	FINISHED：
+		1、英语30分钟
+		2、linux内核完成进程地址空间的学习
+		3、ffmpeg - 对照结构解析ffmpeg解码slice_header的过程

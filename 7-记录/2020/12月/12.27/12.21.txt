@@ -1,0 +1,4 @@
+	FINISHED：
+		1、英语单词20个
+		2、LINUX 块设备，BIO结构
+		3、FFMPEG移植完成h264分片函数

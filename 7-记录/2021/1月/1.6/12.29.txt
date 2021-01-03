@@ -1,0 +1,5 @@
+	FINISHED:
+		1、英语30分钟
+		2、阅读1H以上
+		3、ffmpeg 大致了解CABAC
+		4、linux内核学习页高速缓存，了解其概念
