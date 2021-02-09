@@ -1,0 +1,4 @@
+	FINISHED：
+	1、英语30分钟
+	2、linux内核进程上下文切换
+	3、ffmpeg - rtsp - setup代码研读

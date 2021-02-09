@@ -1,0 +1,3 @@
+	FINISHED：
+	1、英语30分钟
+	2、ffmpeg-rtmp flv的抽取，读取rtmp包

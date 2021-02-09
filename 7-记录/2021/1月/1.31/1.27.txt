@@ -1,0 +1,4 @@
+	FINISHED：
+	1、英语30分钟
+	2、FFMPEG-WINDOWS环境搭建完成
+	     FFMPEG-RTMP开始看OPEN代码

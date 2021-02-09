@@ -1,0 +1,4 @@
+	FINISHED：
+	1、英语30分钟
+	2、FFMPEG-WINDOWS环境搭建失败 - 转做RTMP；
+		目标 - 协议在FFMPEG代码过一遍，flv格式要清楚
